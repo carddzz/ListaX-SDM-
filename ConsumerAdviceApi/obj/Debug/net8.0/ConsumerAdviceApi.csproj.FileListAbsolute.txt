@@ -1,0 +1,14 @@
+C:\Users\ariadne.damasceno\Projetos_e_exercicios\ConsumerAdviceApi\ConsumerAdviceApi\bin\Debug\net8.0\ConsumerAdviceApi.exe
+C:\Users\ariadne.damasceno\Projetos_e_exercicios\ConsumerAdviceApi\ConsumerAdviceApi\bin\Debug\net8.0\ConsumerAdviceApi.deps.json
+C:\Users\ariadne.damasceno\Projetos_e_exercicios\ConsumerAdviceApi\ConsumerAdviceApi\bin\Debug\net8.0\ConsumerAdviceApi.runtimeconfig.json
+C:\Users\ariadne.damasceno\Projetos_e_exercicios\ConsumerAdviceApi\ConsumerAdviceApi\bin\Debug\net8.0\ConsumerAdviceApi.dll
+C:\Users\ariadne.damasceno\Projetos_e_exercicios\ConsumerAdviceApi\ConsumerAdviceApi\bin\Debug\net8.0\ConsumerAdviceApi.pdb
+C:\Users\ariadne.damasceno\Projetos_e_exercicios\ConsumerAdviceApi\ConsumerAdviceApi\obj\Debug\net8.0\ConsumerAdviceApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariadne.damasceno\Projetos_e_exercicios\ConsumerAdviceApi\ConsumerAdviceApi\obj\Debug\net8.0\ConsumerAdviceApi.AssemblyInfoInputs.cache
+C:\Users\ariadne.damasceno\Projetos_e_exercicios\ConsumerAdviceApi\ConsumerAdviceApi\obj\Debug\net8.0\ConsumerAdviceApi.AssemblyInfo.cs
+C:\Users\ariadne.damasceno\Projetos_e_exercicios\ConsumerAdviceApi\ConsumerAdviceApi\obj\Debug\net8.0\ConsumerAdviceApi.csproj.CoreCompileInputs.cache
+C:\Users\ariadne.damasceno\Projetos_e_exercicios\ConsumerAdviceApi\ConsumerAdviceApi\obj\Debug\net8.0\ConsumerAdviceApi.dll
+C:\Users\ariadne.damasceno\Projetos_e_exercicios\ConsumerAdviceApi\ConsumerAdviceApi\obj\Debug\net8.0\refint\ConsumerAdviceApi.dll
+C:\Users\ariadne.damasceno\Projetos_e_exercicios\ConsumerAdviceApi\ConsumerAdviceApi\obj\Debug\net8.0\ConsumerAdviceApi.pdb
+C:\Users\ariadne.damasceno\Projetos_e_exercicios\ConsumerAdviceApi\ConsumerAdviceApi\obj\Debug\net8.0\ConsumerAdviceApi.genruntimeconfig.cache
+C:\Users\ariadne.damasceno\Projetos_e_exercicios\ConsumerAdviceApi\ConsumerAdviceApi\obj\Debug\net8.0\ref\ConsumerAdviceApi.dll
